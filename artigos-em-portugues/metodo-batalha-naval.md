@@ -1,4 +1,4 @@
-# Método Batalha Naval- Para prototipação e validação de conteúdo em  fluxos de experiência do usuário
+# Método Batalha Naval - Para prototipação e validação de conteúdo em  fluxos de experiência do usuário
 Quantas vezes você já se perdeu ou deixou de aproveitar ao máximo de um produto ou serviço por não entender na totalidade o que os idealizadores gostariam de transmitir?
 Como UX e designers de produto nós temos que garantir que as interfaces e interações transmitam de forma clara a proposta de valor de nossos produtos e serviços e isso não é uma tarefa fácil, são tantos métodos, rascunhos e desenhos, que esquecemos do principal: o conteúdo.
 
