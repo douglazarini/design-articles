@@ -1,7 +1,7 @@
 # Design Articles (design-articles)
 
 ## Description
-Design articles that we can co-create in collaboration with other people.
+Design articles that we can co-create and translate in collaboration with other people.
 
 ## Introduction
 First at all, the objective of all this is to help people and create impact. So you are welcome to use and collaborate with those articles.
