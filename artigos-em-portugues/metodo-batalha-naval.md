@@ -19,9 +19,12 @@ Em muitos casos de interação podem não haver um "bom dia", nem uma explicaç�
 
 
 ## Como:
+
 ### 1. O primeiro passo é desenvolver um Protótipo Conversacional
-"Protótipo Conversacional", como Marin chamou, é uma das mais fáceis e rápidas formas de prototipar um fluxo. Atuar como um personagem do seu produto é inesperadamente revelador. Começamos a lembrar que a confiança é construída por meio de gestos sutis como tom e consideração do tempo das pessoas, e explicamos de forma clara e compassiva o motivo de estarmos pedindo informações sensíveis. Com essa prática, você vai começar a explorar mais wireframes e também artefatos como mapas de tons. Joscelin - Write First: The Craft of Content-first Design
+>"Protótipo Conversacional", como Marin chamou, é uma das mais fáceis e rápidas formas de prototipar um fluxo. Atuar como um personagem do seu produto é inesperadamente revelador. Começamos a lembrar que a confiança é construída por meio de gestos sutis como tom e consideração do tempo das pessoas, e explicamos de forma clara e compassiva o motivo de estarmos pedindo informações sensíveis. Com essa prática, você vai começar a explorar mais wireframes e também artefatos como mapas de tons. [Joscelin](https://medium.com/@joscelincooper?source=post_page-----d9460d567947--------------------------------) - [Write First: The Craft of Content-first Design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
+
 Esse simples passo vai revelar os maiores gaps do seu fluxo de interação, e se você ainda não tem um fluxo, isso vai te ajudar a construir um fluxo intuitivo, interativo e apaixonado ao propor soluções para ajudar os usuários a resolverem seus problemas.
+
 
 ### 2. Testar o fluxo do Protótipo Conversacional
 É por isso que chamei de "Batalha Naval", o usuário terá que seguir o fluxo apenas na conversa, sem ver a interface visual, com ou sem contexto prévio.
@@ -30,32 +33,46 @@ Esse simples passo vai revelar os maiores gaps do seu fluxo de interação, e se
 
 Vamos para um exemplo de teste do método Batalha Naval:
 
-Teste de uma tela de Cadastro:
-Produto X: Bom dia, antes de permitir sua entrada eu preciso que você faça um cadastro. Não se preocupe, é gratuito e você não precisará inserir cartão de credito ou coisa do tipo.
-Usuário: Sem problemas. O que preciso te passar?
-Produto X: Você precisa me passar seu nome, e-mail e preencher uma senha. Depois de preencher essas informações você já poderá ter acesso.
+
+#### Teste de uma tela de Cadastro:
+
+__Produto X:__ Bom dia, antes de permitir sua entrada eu preciso que você faça um cadastro. Não se preocupe, é gratuito e você não precisará inserir cartão de credito ou coisa do tipo.
+
+__Usuário:__ Sem problemas. O que preciso te passar?
+
+__Produto X:__ Você precisa me passar seu nome, e-mail e preencher uma senha. Depois de preencher essas informações você já poderá ter acesso.
 Obs: Você pode fazer analogia com um espaço e objetos físicos, como se o produto fosse um lugar e o formulário fosse de papel e caneta.
 
-Teste de uma tela de dashboard inicial:
-Produto X: Bem vindo, esse é o seu espaço, aqui tem um monte de coisa legal para resolver seu problema, você pode acompanhar o andamento da gestão de seus projetos, ver as estatísticas, e também tem atalhos para as principais áreas do site, assim você não precisa ficar acessando o menu principal toda hora e ganha tempo com isso.
+
+#### Teste de uma tela de dashboard inicial:
+
+__Produto X:__ Bem vindo, esse é o seu espaço, aqui tem um monte de coisa legal para resolver seu problema, você pode acompanhar o andamento da gestão de seus projetos, ver as estatísticas, e também tem atalhos para as principais áreas do site, assim você não precisa ficar acessando o menu principal toda hora e ganha tempo com isso.
 Nessa área tem dois campos de atalho principais um de mensagens, onde ficarão as mensagens que trocar com a comunidade e outro de projetos onde ficarão as principais informações dos projetos. 
+
 Vi que você ainda não tem um projeto, tá afim de criar um?
-Usuário: Ainda não, quero explorar mais um pouco. O que mais tem nessa tela? Quais são os itens do menu?
-Produto X: No menu inicial nós temos os itens "Home" que é onde você está agora, o item "Projetos" e o item "Mensagens". Além do menu principal você também tem um menu secundário com "Área de Notificações", "Configurações" e "Perfil".
-Usuário: Quero acessar projetos.
-Obs: É claro que aqui é apenas uma ideia, isso muda em cada produto e contexto e o objetivo é através desse papo, contextualizar e direcionar o usuário sobre seu problema e a solução proposta. Em alguns casos, principalmente em produtos complexos, você pode testar o quanto é necessários contextualizar e reeducar o usuário em cada área do fluxo, e entender a melhor forma de otimizar esse conteúdo.
 
-3. Resultado e entregáveis
+__Usuário:__ Ainda não, quero explorar mais um pouco. O que mais tem nessa tela? Quais são os itens do menu?
+
+__Produto X:__ No menu inicial nós temos os itens "Home" que é onde você está agora, o item "Projetos" e o item "Mensagens". Além do menu principal você também tem um menu secundário com "Área de Notificações", "Configurações" e "Perfil".
+
+__Usuário:__ Quero acessar projetos.
+
+_Obs: É claro que aqui é apenas uma ideia, isso muda em cada produto e contexto e o objetivo é através desse papo, contextualizar e direcionar o usuário sobre seu problema e a solução proposta. Em alguns casos, principalmente em produtos complexos, você pode testar o quanto é necessários contextualizar e reeducar o usuário em cada área do fluxo, e entender a melhor forma de otimizar esse conteúdo._
+
+
+### 3. Resultado e entregáveis
 O teste com usuários, assim como qualquer pesquisa, causa desconforto, sem essa sensação não há aprendizado, pois se o fluxo estivesse perfeito, e nós já soubessemos como fazer, não haveria desconforto algum. A questão é que a perfeição não existe.
-Com o Protótipo Conversacional e teste de Batalha Naval nós podemos identificar diversos problemas e oportunidades. Algumas delas podem ser:
-Entendimento se o usuário entendeu a proposta de valor e como funciona mesmo sem ver as telas;
-Identificação de problemas de arquitetura de informação;
-Identificação de problemas de onboarding e instrução de uso;
-Identificação de problemas e oportunidades de tom de voz como: gírias e regionalismos;
-Identificação de problemas com linguagem neutra e não sexista;
 
-Fez sentido para você? Descreva nos comentários quais outros problemas e oportunidades podemos identificar com esse método.
-O Que:
+Com o Protótipo Conversacional e teste de Batalha Naval nós podemos identificar diversos problemas e oportunidades. Algumas delas podem ser:
+* Entendimento se o usuário entendeu a proposta de valor e como funciona mesmo sem ver as telas;
+* Identificação de problemas de arquitetura de informação;
+* Identificação de problemas de onboarding e instrução de uso;
+* Identificação de problemas e oportunidades de tom de voz como: gírias e regionalismos;
+* Identificação de problemas com linguagem neutra e não sexista;
+
+_Fez sentido para você? Descreva nos comentários quais outros problemas e oportunidades podemos identificar com esse método._
+
+## O Que:
 O método Batalha Naval é uma forma de testar e validar conteúdo em fluxos de experiência do usuário, afim de resultar em um produto que fale por si só, de forma simples, apaixonada e acessível.
 
 ---
